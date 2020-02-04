@@ -1,4 +1,4 @@
-# SelfPortrait
+# CodeSelfPortrait
 Display a self-portrait made out of simple shapes.
 
 By: Lauren Marone
